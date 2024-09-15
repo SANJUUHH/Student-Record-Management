@@ -79,7 +79,7 @@ The student has been added successfully!
     Enter new student marks: 90.0
     Enter student roll number to update: 101
 
-The student details have been updated successfully!
+ The student details have been updated successfully!
 
 3. Searching for a Student
    ```plaintext
@@ -99,13 +99,13 @@ The student details have been updated successfully!
     1. Add student
     2. Update student
     3. Delete student
-   4. Search student
+    4. Search student
     5. Show all students
     6. Exit
     Enter your choice: 3
     Enter student roll number to delete: 101
 
-The student has been deleted successfully!
+  The student has been deleted successfully!
 
 5. Showing All Students (Empty Table)
    ```plaintext
@@ -117,5 +117,5 @@ The student has been deleted successfully!
     6. Exit
     Enter your choice: 5
 
-No student records found.
+  No student records found.
 
