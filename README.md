@@ -36,18 +36,86 @@ This Python project provides a console-based student record management system us
 ## How to Use
 
 1. **Run the script** and you will see a menu with several options:
-    Add student
-    Update student
-    Delete student
-    Search student
-    Show all students
-    Exit
+   - Add student
+   - Update student
+   - Delete student
+   - Search student
+   - Show all students
+   - Exit
    
-3. Choose the desired action by typing the corresponding number and following the prompts.
+2. Choose the desired action by typing the corresponding number and following the prompts.
 
-4. When adding, updating, or searching for a student, you'll be asked to provide specific information like the student's name, roll number, and marks.
+3. When adding, updating, or searching for a student, you'll be asked to provide specific information like the student's name, roll number, and marks.
 
-5. The program will continue to loop until you choose to exit.
+4. The program will continue to loop until you choose to exit.
 
 ## Example Output
+
+1. Adding a Student
+   ```plaintext
+    1. Add student
+    2. Update student
+    3. Delete student
+    4. Search student
+    5. Show all students
+    6. Exit
+    Enter your choice: 1
+    Enter student name: John Doe
+    Enter student roll number: 101
+    Enter student marks: 85.5
+
+The student has been added successfully!
+
+2. Updating a Student's Information
+   ```plaintext
+    1. Add student
+    2. Update student
+    3. Delete student
+    4. Search student
+    5. Show all students
+    6. Exit
+    Enter your choice: 2
+    Enter new student name: Jane Doe
+    Enter new student marks: 90.0
+    Enter student roll number to update: 101
+
+The student details have been updated successfully!
+
+3. Searching for a Student
+   ```plaintext
+    1. Add student
+    2. Update student
+    3. Delete student
+    4. Search student
+    5. Show all students
+    6. Exit
+    Enter your choice: 4
+    Enter student roll number: 101
+
+    Student name: Jane Doe, Roll Number: 101, Marks: 90.0
+
+4. Deleting a Student
+   ```plaintext
+    1. Add student
+    2. Update student
+    3. Delete student
+   4. Search student
+    5. Show all students
+    6. Exit
+    Enter your choice: 3
+    Enter student roll number to delete: 101
+
+The student has been deleted successfully!
+
+5. Showing All Students (Empty Table)
+   ```plaintext
+    1. Add student
+    2. Update student
+    3. Delete student
+    4. Search student
+    5. Show all students
+    6. Exit
+    Enter your choice: 5
+
+No student records found.
 
