@@ -23,15 +23,6 @@ This Python project provides a console-based student record management system us
 - Python 3.x
 - SQLite3
 
-## How to Run
-
-1. Clone or download the repository.
-2. Open the terminal or command prompt in the project folder.
-3. Run the following command:
-
-    ```bash
-    python student_management.py
-    ```
 
 ## How to Use
 
